@@ -1,5 +1,6 @@
 # js-calculator
 
-👋 Hey, this is a html-js 🟡 calculator that I made with the ui resembling windows calculator 🧮
+👋 Hey, this is a html-js 🟡 calculator that I made by using javascript and css.
+🧮
 
-![preview](https://github.com/Dhanush-git/js-calculator/blob/main/preview.png)
+
